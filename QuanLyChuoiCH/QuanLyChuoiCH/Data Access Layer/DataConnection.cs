@@ -12,7 +12,7 @@ namespace QuanLyChuoiCH
         string connStr;
         public DataConnection()
         {
-            connStr = "Data Source = DESKTOP-2SITBAH; Initial Catalog = ChuoiCH; Integrated Security = true";
+            connStr = "Data Source = REDHOOD\\MSSQLSERVER01; Initial Catalog = ChuoiCH; Integrated Security = true";
         }
         public SqlConnection getConnect()
         {

@@ -12,3 +12,17 @@ D:\SQL Projects\Bai tap lon\C Sharp\QuanLyChuoiCH\QuanLyChuoiCH\obj\Debug\QuanLy
 D:\SQL Projects\Bai tap lon\C Sharp\QuanLyChuoiCH\QuanLyChuoiCH\obj\Debug\QuanLyChuoiCH.MHChuamua.resources
 D:\SQL Projects\Bai tap lon\C Sharp\QuanLyChuoiCH\QuanLyChuoiCH\obj\Debug\QuanLyChuoiCH.Khachchuamua.resources
 D:\SQL Projects\Bai tap lon\C Sharp\QuanLyChuoiCH\QuanLyChuoiCH\obj\Debug\QuanLyChuoiCH.Soluongban.resources
+D:\SQL Projects\Bai tap lon\QuanLyChuoiCH\QuanLyChuoiCH\bin\Debug\QuanLyChuoiCH.exe.config
+D:\SQL Projects\Bai tap lon\QuanLyChuoiCH\QuanLyChuoiCH\bin\Debug\QuanLyChuoiCH.exe
+D:\SQL Projects\Bai tap lon\QuanLyChuoiCH\QuanLyChuoiCH\bin\Debug\QuanLyChuoiCH.pdb
+D:\SQL Projects\Bai tap lon\QuanLyChuoiCH\QuanLyChuoiCH\obj\Debug\QuanLyChuoiCH.csprojAssemblyReference.cache
+D:\SQL Projects\Bai tap lon\QuanLyChuoiCH\QuanLyChuoiCH\obj\Debug\QuanLyChuoiCH.Form1.resources
+D:\SQL Projects\Bai tap lon\QuanLyChuoiCH\QuanLyChuoiCH\obj\Debug\QuanLyChuoiCH.Khachchuamua.resources
+D:\SQL Projects\Bai tap lon\QuanLyChuoiCH\QuanLyChuoiCH\obj\Debug\QuanLyChuoiCH.MHChuamua.resources
+D:\SQL Projects\Bai tap lon\QuanLyChuoiCH\QuanLyChuoiCH\obj\Debug\QuanLyChuoiCH.Properties.Resources.resources
+D:\SQL Projects\Bai tap lon\QuanLyChuoiCH\QuanLyChuoiCH\obj\Debug\QuanLyChuoiCH.Soluongban.resources
+D:\SQL Projects\Bai tap lon\QuanLyChuoiCH\QuanLyChuoiCH\obj\Debug\QuanLyChuoiCH.Thongke.resources
+D:\SQL Projects\Bai tap lon\QuanLyChuoiCH\QuanLyChuoiCH\obj\Debug\QuanLyChuoiCH.csproj.GenerateResource.cache
+D:\SQL Projects\Bai tap lon\QuanLyChuoiCH\QuanLyChuoiCH\obj\Debug\QuanLyChuoiCH.csproj.CoreCompileInputs.cache
+D:\SQL Projects\Bai tap lon\QuanLyChuoiCH\QuanLyChuoiCH\obj\Debug\QuanLyChuoiCH.exe
+D:\SQL Projects\Bai tap lon\QuanLyChuoiCH\QuanLyChuoiCH\obj\Debug\QuanLyChuoiCH.pdb
